@@ -11,6 +11,9 @@ em {
 p {
 	line-height: 1.4;
 }
+h2 {
+        color: #BD1E63;
+}
 ul {
 	margin-bottom: 0;
 }
@@ -51,4 +54,7 @@ blockquote {
 	float: left;
 	width: 50%;
 }
+#summary {
+	color: #999;
+}  
 
